@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/dobariyapurva2003/dobariyapurva2003.github.io/static/css/main.f992694d.css",
+    "main.js": "/dobariyapurva2003/dobariyapurva2003.github.io/static/js/main.60227345.js",
+    "static/js/453.5e560239.chunk.js": "/dobariyapurva2003/dobariyapurva2003.github.io/static/js/453.5e560239.chunk.js",
+    "static/media/pic.jpeg": "/dobariyapurva2003/dobariyapurva2003.github.io/static/media/pic.6363f480a967c5cd4c39.jpeg",
+    "static/media/stock.jpg": "/dobariyapurva2003/dobariyapurva2003.github.io/static/media/stock.7ae2d144dbb55fd402ff.jpg",
+    "static/media/news.jpg": "/dobariyapurva2003/dobariyapurva2003.github.io/static/media/news.e010998e8501dedb8d88.jpg",
+    "static/media/student.jpg": "/dobariyapurva2003/dobariyapurva2003.github.io/static/media/student.2bf63dba317179e74f6a.jpg",
+    "index.html": "/dobariyapurva2003/dobariyapurva2003.github.io/index.html",
+    "main.f992694d.css.map": "/dobariyapurva2003/dobariyapurva2003.github.io/static/css/main.f992694d.css.map",
+    "main.60227345.js.map": "/dobariyapurva2003/dobariyapurva2003.github.io/static/js/main.60227345.js.map",
+    "453.5e560239.chunk.js.map": "/dobariyapurva2003/dobariyapurva2003.github.io/static/js/453.5e560239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f992694d.css",
+    "static/js/main.60227345.js"
+  ]
+}
